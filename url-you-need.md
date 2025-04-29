@@ -4,4 +4,3 @@
 - [스닙펫](https://snippet-generator.app/?description=&tabtrigger=&snippet=&mode=vscode) : 코드앱에서 자동완성을 추가할 때 사용
 - [FIGma](https://www.figma.com/ko-kr/) : 디자인 시안을 볼 수 있는 사이트. 시안이란 설계도 개념으로 디자이너와 소통하는 방식이라고 볼 수 있음.
 - [Emmet](https://emmet.io/) : 웹개발 할 때 쓰이는 도구모음. vs코드를 사용할 때 약어로 기본적인 템플릿이 나오는건 emmet의 기능임.
--
