@@ -59,3 +59,4 @@
 - `git config list` git의 설정값 확인
 - `git log --oneline` commit log 한줄로 간략하게 표현
 - `git log --oneline --graph` commit log를 간략하게 표현하면서 아스키 \문자 등으로 그래프로 시각적 표현
+- `git commit --amend` 마지막 commit메시지를 수정할 수 있음
