@@ -17,3 +17,4 @@
   - 웹킷, 게코, 트라이던트 등등이 있음. 브라우저별 접두사로 표현됨
   - Vendor Prefix(벤더 프리픽스) : -webkit- -moz- -ms- -o-
 - 논리속성 : top, left : start // bottom right : end 아랍권 같은 좌우가 일반적인 형태와 다른 문화권에서 스타트/엔드 기준으로 설정해 일관성을 줄 수 있음. border, padding등에서 사용
+- initial value: 초기값
